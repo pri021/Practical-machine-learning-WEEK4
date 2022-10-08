@@ -1,7 +1,7 @@
 Practical Machine Learning
 ================
-Tobias Heidler
-2020-11-14
+Prisha Sethi
+October 7th 2022
 
   - [Abstract](#abstract)
   - [Data Sources](#data-sources)
