@@ -1,0 +1,10 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+pml-testing.csv
+pml-training.csv
+Practical-Machine-Learning-Week-4.Rproj
+model_glmnet.rda
+model_rfFit.rda
+model_rpartFit.rda
